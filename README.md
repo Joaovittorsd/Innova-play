@@ -9,7 +9,7 @@ Innova-play é um aplicativo simples de indexação e gerenciamento de vídeos d
   - Senha: `123456`
   
 - **Gerenciamento de Vídeos**:
-  - Adicionar novos vídeos com título, descrição, capa e tags.
+  - Adicionar novos vídeos com título, url e capa.
   - Editar informações de vídeos existentes.
   - Excluir vídeos.
   
