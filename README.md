@@ -61,14 +61,18 @@ Este projeto utiliza as seguintes bibliotecas através do Composer:
 
 ## Passos para Instalar
 
-  1.Clone o repositório do projeto:
-   `` git clone https://github.com/seu-usuario/innova-play.git
-      cd innova-play``
-  2.Instale as dependências utilizando o Composer:
-    ``composer install``
-  3.Acesse o app pelo navegador, o usuário de login padrão é:
-    Email: ``teste@teste.com.br``
-    Senha: ``123456``
+```bash
+# 1. Clone o repositório do projeto:
+git clone https://github.com/seu-usuario/innova-play.git
+cd innova-play
+
+# 2. Instale as dependências utilizando o Composer:
+composer install
+
+# 3. Acesse o app pelo navegador. O usuário de login padrão é:
+# Email: teste@teste.com.br
+# Senha: 123456
+
 
 
 
